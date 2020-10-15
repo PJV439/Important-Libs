@@ -24,3 +24,17 @@ https://github.com/kizitonwose/CalendarView
 - [x] Custom calendar view
 - [x] Horizontal- or vertical-scrolling mode
 - [x] Fully customizable views
+
+ 4. **MaterialDrawer**  - https://github.com/mikepenz/MaterialDrawer
+ - [X] Easy to use
+ - [X] Latest Material Drawer Design according to guide lines
+ - [X] Optimized for android devices
+ - [X] Support for Account Header
+ - [X] Support for many many customizable elements like swith etc in Drawer
+
+5. **Glide** - https://github.com/bumptech/glide
+- [x] Easy to use
+- [x] Support for GIF animation images also
+- [x] Optimized Image loading
+- [x] Support for circular image loading
+- [x] Support for error and placeholder image
