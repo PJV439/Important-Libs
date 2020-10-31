@@ -14,14 +14,16 @@ add later here new libraries
 - [x] It easily and effectively transforms images to make them fit better into layouts and reduce memory size.
 - [x] For more advanced effects, one can specify custom transformations.
 
-3. **CalendarView**
-https://github.com/kizitonwose/CalendarView
+ 4. **MaterialDrawer**  - https://github.com/mikepenz/MaterialDrawer
+ - [X] Easy to use
+ - [X] Latest Material Drawer Design according to guide lines
+ - [X] Optimized for android devices
+ - [X] Support for Account Header
+ - [X] Support for many many customizable elements like swith etc in Drawer
 
-- [x] It has lots of features:
-- [x] Single or range selection
-- [x] Week or month mode
-- [x] Boundary dates
-- [x] Custom calendar view
-- [x] Horizontal- or vertical-scrolling mode
-- [x] Fully customizable views
-
+5. **Glide** - https://github.com/bumptech/glide
+- [x] Easy to use
+- [x] Support for GIF animation images also
+- [x] Optimized Image loading
+- [x] Support for circular image loading
+- [x] Support for error and placeholder image
