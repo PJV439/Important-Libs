@@ -27,3 +27,21 @@ add later here new libraries
 - [x] Optimized Image loading
 - [x] Support for circular image loading
 - [x] Support for error and placeholder image
+
+6. **CalendarView**
+https://github.com/kizitonwose/CalendarView
+
+- [x] It has lots of features:
+- [x] Single or range selection
+- [x] Week or month mode
+- [x] Boundary dates
+- [x] Custom calendar view
+- [x] Horizontal- or vertical-scrolling mode
+- [x] Fully customizable views
+
+7. **MaterialDateTimePicker**
+https://github.com/wdullaer/MaterialDateTimePicker
+
+- [x] Material DateTime Picker tries to offer you the date and time pickers as shown in the Material Design spec, with an easy themable API.
+- [x] The library uses the code from the Android frameworks as a base and tweaked it to be as close as possible to Material Design example.
+- [x] Support for Android 4.1 and up. (Android 4.0 was supported until 3.6.4)
